@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\3_EmployedWorkers\3_EmployedWorkers\bin\Debug\3_EmployedWorkers.dll
+D:\Recrutering\dotNet\3_EmployedWorkers\3_EmployedWorkers\bin\Debug\3_EmployedWorkers.pdb
+D:\Recrutering\dotNet\3_EmployedWorkers\3_EmployedWorkers\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\3_EmployedWorkers\3_EmployedWorkers\obj\Debug\3_EmployedWorkers.dll
+D:\Recrutering\dotNet\3_EmployedWorkers\3_EmployedWorkers\obj\Debug\3_EmployedWorkers.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_FindMaxValueInList", "1_FindMaxValueInList\1_FindMaxValueInList.csproj", "{E2DD01B5-A664-4F11-9678-07791A1A7D19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCD8AD63-66FB-49A2-9C76-906798CCF94A}"
+	ProjectSection(SolutionItems) = preProject
+		1_FindMaxValueInList.vsmdi = 1_FindMaxValueInList.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = 1_FindMaxValueInList.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DD01B5-A664-4F11-9678-07791A1A7D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DD01B5-A664-4F11-9678-07791A1A7D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DD01B5-A664-4F11-9678-07791A1A7D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DD01B5-A664-4F11-9678-07791A1A7D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

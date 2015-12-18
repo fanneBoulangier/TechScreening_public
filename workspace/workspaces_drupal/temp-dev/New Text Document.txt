@@ -1,0 +1,5 @@
+C:\xampp\htdocs\drupal-cegeka>
+
+drush si -y --db-url=mysql://root@localhost:3306/drupal --db-su=root --site-name=Recruiting standard
+drush en search_history -y
+drush cc all

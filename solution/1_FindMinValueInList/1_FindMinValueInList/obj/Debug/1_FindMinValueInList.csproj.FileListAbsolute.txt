@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\1_FindMinValueInList\1_FindMinValueInList\bin\Debug\1_FindMinValueInList.dll
+D:\Recrutering\dotNet\1_FindMinValueInList\1_FindMinValueInList\bin\Debug\1_FindMinValueInList.pdb
+D:\Recrutering\dotNet\1_FindMinValueInList\1_FindMinValueInList\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\1_FindMinValueInList\1_FindMinValueInList\obj\Debug\1_FindMinValueInList.dll
+D:\Recrutering\dotNet\1_FindMinValueInList\1_FindMinValueInList\obj\Debug\1_FindMinValueInList.pdb

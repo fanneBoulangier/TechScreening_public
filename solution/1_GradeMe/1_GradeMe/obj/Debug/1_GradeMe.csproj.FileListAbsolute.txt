@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\1_GradeMe\1_GradeMe\bin\Debug\1_GradeMe.dll
+D:\Recrutering\dotNet\1_GradeMe\1_GradeMe\bin\Debug\1_GradeMe.pdb
+D:\Recrutering\dotNet\1_GradeMe\1_GradeMe\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\1_GradeMe\1_GradeMe\obj\Debug\1_GradeMe.dll
+D:\Recrutering\dotNet\1_GradeMe\1_GradeMe\obj\Debug\1_GradeMe.pdb

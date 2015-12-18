@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\3_FilterableList\3_FilterableList\bin\Debug\3_FilterableList.dll
+D:\Recrutering\dotNet\3_FilterableList\3_FilterableList\bin\Debug\3_FilterableList.pdb
+D:\Recrutering\dotNet\3_FilterableList\3_FilterableList\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\3_FilterableList\3_FilterableList\obj\Debug\3_FilterableList.dll
+D:\Recrutering\dotNet\3_FilterableList\3_FilterableList\obj\Debug\3_FilterableList.pdb

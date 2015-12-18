@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\1_ReverseString\1_ReverseString\bin\Debug\1_ReverseString.dll
+D:\Recrutering\dotNet\1_ReverseString\1_ReverseString\bin\Debug\1_ReverseString.pdb
+D:\Recrutering\dotNet\1_ReverseString\1_ReverseString\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\1_ReverseString\1_ReverseString\obj\Debug\1_ReverseString.dll
+D:\Recrutering\dotNet\1_ReverseString\1_ReverseString\obj\Debug\1_ReverseString.pdb

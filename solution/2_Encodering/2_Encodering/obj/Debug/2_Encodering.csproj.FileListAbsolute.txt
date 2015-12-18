@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\2_Encodering\2_Encodering\bin\Debug\2_Encodering.dll
+D:\Recrutering\dotNet\2_Encodering\2_Encodering\bin\Debug\2_Encodering.pdb
+D:\Recrutering\dotNet\2_Encodering\2_Encodering\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\2_Encodering\2_Encodering\obj\Debug\2_Encodering.dll
+D:\Recrutering\dotNet\2_Encodering\2_Encodering\obj\Debug\2_Encodering.pdb

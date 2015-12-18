@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\1_FizzBuzz\1_FizzBuzz\bin\Debug\1_FizzBuzz.dll
+D:\Recrutering\dotNet\1_FizzBuzz\1_FizzBuzz\bin\Debug\1_FizzBuzz.pdb
+D:\Recrutering\dotNet\1_FizzBuzz\1_FizzBuzz\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\1_FizzBuzz\1_FizzBuzz\obj\Debug\1_FizzBuzz.dll
+D:\Recrutering\dotNet\1_FizzBuzz\1_FizzBuzz\obj\Debug\1_FizzBuzz.pdb

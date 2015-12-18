@@ -1,0 +1,5 @@
+D:\Recrutering\dotNet\3_MovieRental\3_MovieRental\bin\Debug\3_MovieRental.dll
+D:\Recrutering\dotNet\3_MovieRental\3_MovieRental\bin\Debug\3_MovieRental.pdb
+D:\Recrutering\dotNet\3_MovieRental\3_MovieRental\obj\Debug\ResolveAssemblyReference.cache
+D:\Recrutering\dotNet\3_MovieRental\3_MovieRental\obj\Debug\3_MovieRental.dll
+D:\Recrutering\dotNet\3_MovieRental\3_MovieRental\obj\Debug\3_MovieRental.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Decodering", "2_Decodering\2_Decodering.csproj", "{1EF6409B-B6AC-4771-8D54-53A1BBB04847}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7DDB1327-AE1D-48F1-9025-F82B913AB0C4}"
+	ProjectSection(SolutionItems) = preProject
+		2_Decodering.vsmdi = 2_Decodering.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = 2_Decodering.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF6409B-B6AC-4771-8D54-53A1BBB04847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF6409B-B6AC-4771-8D54-53A1BBB04847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF6409B-B6AC-4771-8D54-53A1BBB04847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF6409B-B6AC-4771-8D54-53A1BBB04847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
