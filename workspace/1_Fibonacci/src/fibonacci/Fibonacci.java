@@ -3,12 +3,14 @@ package fibonacci;
 public class Fibonacci {
 
 	/**
-	 * Deze methode berekent de reeks van Fibonacci. De eerste twee fibonacci getallen zijn 0 en 1; 
-	 * en elk volgend fibonacci getal is de som van de vorige twee.
-	 * @param getal het getal waarvoor fibonacci getal te berekenen.
-	 * @return het fibonacci getal
+	 * This method calculates the n-th fibanonacci number in the fibonacci sequence. The fibonacci numbers for n=0 is 0
+	 * and for n=1 is 1.
+	 * All following fibonacci numbers are the sum of the previous two.
+	 * Example: 3-th fibonacci number: 2-nd fibonacci number (1)+ 1-th fibonacci number (1) = 2
+	 * @param n refers to the n-th element in the fibonacci sequence.
+	 * @return the fibonacci number corresponding to the n-th element in the fibonacci sequence
 	 */
-	public int bereken(int getal) {
+	public int calculate(int n) {
 		throw new UnsupportedOperationException("implement me");
 	}
 
