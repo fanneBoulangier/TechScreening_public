@@ -13,7 +13,7 @@ public class FindMinValueInListTest {
 	}
 	
 	@Test
-	public void geefkleinste() {
+	public void returnSmallest() {
 		assertEquals(new Integer(1), ListUtil.findMinValueInList(4, 2, 1, 5, 3, 1, 5, 9));
 	}
 

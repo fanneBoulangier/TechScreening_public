@@ -3,8 +3,7 @@ package strings;
 public class StringUtil {
 
 	/**
-	 * Geeft, gegeven een string, 
-	 * dezelfde string terug met afwisselde case (beginnend met hoofdletter)
+	 * Given a string returns this string with an altenernating case.
 	 * 
 	 * bvb Funny Case => FuNnY cAsE
 	 * 

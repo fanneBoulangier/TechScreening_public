@@ -3,11 +3,11 @@ package listutils;
 public class ListUtil {
 
 	/**
-	 * Gegeven een lijst van integers, geef de kleinste terug
+	 * Given a list of integers, return the smallest
 	 * bvb: (4 2 1 5 3 1 5 9) => 1
 	 * 
-	 * @param anArray de lijst
-	 * @return de kleinste van de lijst
+	 * @param anArray the list of integers
+	 * @return the minimum value
 	 */
 	public static Integer findMinValueInList(Integer... anArray) {
 		throw new UnsupportedOperationException("Implement me!");
