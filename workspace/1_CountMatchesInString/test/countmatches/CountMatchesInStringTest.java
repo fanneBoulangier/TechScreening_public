@@ -18,17 +18,17 @@ public class CountMatchesInStringTest {
 	
 	@Test
 	public void noMatchesInNonEmptyString() {
-		assertEquals(0, StringUtil.countMatches("deze string evat niet de letter ee", 'b'));
+		assertEquals(0, StringUtil.countMatches("this string has no matches", 'b'));
 	}
 	
 	@Test
 	public void oneMatchInNonEmptyString() {
-		assertEquals(1, StringUtil.countMatches("deze string bevat de letter ee", 'b'));
+		assertEquals(1, StringUtil.countMatches("this string boldly has matches", 'b'));
 	}
 	
 	@Test
 	public void multipleMatchesInNonEmptyString() {
-		assertEquals(3, StringUtil.countMatches("deze string bevat wel de letter b, meer dan 1 keer de letter b zelfs", 'b'));
+		assertEquals(3, StringUtil.countMatches("this string contains b even more than one time b", 'b'));
 	}
 
 }

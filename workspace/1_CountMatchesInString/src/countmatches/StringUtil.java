@@ -3,10 +3,11 @@ package countmatches;
 public class StringUtil {
 
 	/**
-	 * Methode telt aantal maal dat aCharactor voorkomt in aString
-	 * @param aString de string om in te zoeken
-	 * @param aCharacter het character waarmee je moet zoeken
-	 * @return aantal keer dat aCharacter voorkomt in aString
+	 * Method counts the occurences of a character  in a string
+	 * @param aString the string to search in for matches of aCharacter
+	 * @param aCharacter the character to search with
+	 * @return number of occurences of aCharacter in aStrings
+	 *
 	 */
 	public static int countMatches(String aString, char aCharacter) {
 		throw new UnsupportedOperationException("implement me");
