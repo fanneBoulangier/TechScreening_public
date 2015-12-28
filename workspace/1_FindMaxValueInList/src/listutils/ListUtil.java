@@ -4,11 +4,10 @@ package listutils;
 public class ListUtil {
 
 	/**
-	 * Gegeven een lijst van integers, moet de functie de grootste waarde uit die lijst
-	 * teruggeven als resultaat.
-	 * @param aList een lijst van integer waarden
-	 * @return de grootste waarden van deze lijst
-	 * @throws IllegalArgumentException indien de lijst leeg is
+	 * Given a list of integers, this function shall return the highest integer.
+	 * @param aList a list of integer values
+	 * @return the maximum value
+	 * @throws IllegalArgumentException when the list is empty
 	 */
 	public static Integer findMaxValueInList(Integer... aList) {
 		throw new UnsupportedOperationException("implement me");
