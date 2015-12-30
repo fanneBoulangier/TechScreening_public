@@ -3,10 +3,10 @@ package reversestring;
 public class ReverseString {
 
 	/**
-	 * Deze methode draait de gegeven string om
-	 * bvb: abcdefg wordt: gfedcba
+	 * Reverse the given string
+	 * bvb: abcdefg becomes: gfedcba
 	 * @param string input string
-	 * @return de omgekeerde string
+	 * @return the reversed string string
 	 */
 	public String reverse(String string) {
 		throw new UnsupportedOperationException("implement me");

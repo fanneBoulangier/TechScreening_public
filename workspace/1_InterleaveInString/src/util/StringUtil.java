@@ -3,13 +3,13 @@ package util;
 public class StringUtil {
 
 	/**
-	 * Deze method interleaved in aString een character c op regelmatige intervals.
-	 * Bvb s = “blblbl”, c = ‘a’, interval = 2 wordt het resultaat: blablabla
-	 * 
-	 * @param aString de string waarin je wil interleaven
-	 * @param c the character om te interleaven
-	 * @param interval om de hoeveel characters moet c geinterleaved worden in aString
-	 * @return aString met character c geinterleaved op interval indexen
+	 * This method adds a character c in a string aString with a given interval
+	 * Example "blblbl", c="a", interval = 2 becomes "blablabla".
+	 *
+	 * @param aString the string to interleave
+	 * @param c the character add to aString
+	 * @param interval repeatedly add character c after _interval_ characters
+	 * @return aString with character c added after every interval characters
 	 */
 	public static String interleave(String aString, char c, int interval) {
 		throw new UnsupportedOperationException("implement me");
