@@ -1,4 +1,4 @@
-package encodering;
+package encoding;
 
 public class LengthEncodingAlgorithm {
 	

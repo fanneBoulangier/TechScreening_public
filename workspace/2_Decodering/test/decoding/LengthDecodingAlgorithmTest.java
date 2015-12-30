@@ -1,4 +1,4 @@
-package decodering;
+package decoding;
 
 import static junit.framework.Assert.assertEquals;
 

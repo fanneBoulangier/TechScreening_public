@@ -1,4 +1,4 @@
-package decodering;
+package decoding;
 
 public class LengthDecodingAlgorithm {
 
