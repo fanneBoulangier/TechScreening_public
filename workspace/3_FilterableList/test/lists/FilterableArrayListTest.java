@@ -9,7 +9,7 @@ import org.junit.Test;
 public class FilterableArrayListTest {
 	
 	@Test
-	public void filterFiltertAlleElementenUitLijstDieMatchen() {
+	public void filterOutAllMatchingElements() {
 		FilterableList<Long> filterableList = new FilterableArrayList<Long>();
 		filterableList.add(1L);
 		filterableList.add(4L);
@@ -25,7 +25,7 @@ public class FilterableArrayListTest {
 	}
 	
 	@Test
-	public void erIsGeenConnectieTussenGefilterdeLijstEnOrigineleLijst() {
+	public void thereIsNoConnectionBetweenTheFilteredListAndTheOriginalList() {
 		FilterableList<Long> filterableList = new FilterableArrayList<Long>();
 		filterableList.add(15L);
 		filterableList.add(16L);

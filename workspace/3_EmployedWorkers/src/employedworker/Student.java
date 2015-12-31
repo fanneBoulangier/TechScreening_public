@@ -1,7 +1,7 @@
 package employedworker;
 
 /**
- * Een Student heeft een uniek studentnummer
+ * A Student has a unique student number
  */
 public class Student {
 	

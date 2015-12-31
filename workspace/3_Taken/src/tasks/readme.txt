@@ -1,0 +1,1 @@
+// The goal of this exercise is to analyse the code and improve the quality.

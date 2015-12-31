@@ -1,4 +1,4 @@
-package permutaties;
+package permutations;
 
 import static java.util.Arrays.asList;
 import static java.util.Collections.singleton;
@@ -12,28 +12,28 @@ import java.util.Set;
 import org.junit.Test;
 
 
-public class PermutatiesTest {
+public class PermutationsTest {
 	
 	@Test
-	public void legeSet() {
-		assertEquals(new HashSet<List<Integer>>(), ListUtil.permuteer(new HashSet<Integer>()));
+	public void emptySet() {
+		assertEquals(new HashSet<List<Integer>>(), ListUtil.permutate(new HashSet<Integer>()));
 	}
 	
 	@Test
-	public void setMetEenElement() {
-		assertEquals(singleton(singletonList(1)), ListUtil.permuteer(asSet(1)));
+	public void setWithOneElement() {
+		assertEquals(singleton(singletonList(1)), ListUtil.permutate(asSet(1)));
 	}
 	
 	@Test
-	public void setMetTweeElementen() {
+	public void setWithTwoElements() {
 		Set<List<Integer>> expected = new HashSet<List<Integer>>();
 		expected.add(asList(1, 2));
 		expected.add(asList(2, 1));
-		assertEquals(expected, ListUtil.permuteer(asSet(1, 2)));
+		assertEquals(expected, ListUtil.permutate(asSet(1, 2)));
 	}
 	
 	@Test
-	public void setMetDrieElementen() {
+	public void setWithThreeElements() {
 		Set<List<Integer>> expected = new HashSet<List<Integer>>();
 		expected.add(asList(1, 2, 3));
 		expected.add(asList(1, 3, 2));
@@ -41,11 +41,11 @@ public class PermutatiesTest {
 		expected.add(asList(2, 3, 1));
 		expected.add(asList(3, 1, 2));
 		expected.add(asList(3, 2, 1));
-		assertEquals(expected, ListUtil.permuteer(asSet(1, 2, 3)));
+		assertEquals(expected, ListUtil.permutate(asSet(1, 2, 3)));
 	}
 	
 	@Test
-	public void setMetVierElementen() {
+	public void setWithFourElements() {
 		Set<List<Integer>> expected = new HashSet<List<Integer>>();
 		expected.add(asList(1, 2, 3, 4));
 		expected.add(asList(1, 2, 4, 3));
@@ -71,7 +71,7 @@ public class PermutatiesTest {
 		expected.add(asList(4, 2, 3, 1));
 		expected.add(asList(4, 3, 1, 2));
 		expected.add(asList(4, 3, 2, 1));
-		assertEquals(expected, ListUtil.permuteer(asSet(1, 2, 3, 4)));
+		assertEquals(expected, ListUtil.permutate(asSet(1, 2, 3, 4)));
 	}
 
 	private Set<Integer> asSet(Integer... integers) {

@@ -11,14 +11,13 @@ public class WordChain {
 	}
 
 	/**
-	 * Gebruik makend van de lijst van possible words, maakt wordchain een ketting van woorden die je van from naar to leiden met telkens
-	 * één letter verschil.
-	 * bvb cat -> dog : (cat, cot, cog, dog)
-	 * @param from from 
-	 * @param to to 
+	 * Returns a chain of words going from aFrom to aTo where every link only changes one character
+	 * Example cat -> dog : (cat, cot, cog, dog)
+	 * @param aFrom from
+	 * @param aTo to
 	 * @return wordchain from to
 	 */
-	public List<String> wordchainFromTo(String from, String to) {
+	public List<String> wordchainFromTo(String aFrom, String aTo) {
 		throw new UnsupportedOperationException("implement me!");
 	}
 	

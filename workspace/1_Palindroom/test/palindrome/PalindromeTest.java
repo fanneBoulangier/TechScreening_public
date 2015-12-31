@@ -1,4 +1,4 @@
-package palindroom;
+package palindrome;
 
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;
@@ -6,26 +6,26 @@ import static junit.framework.Assert.assertTrue;
 import org.junit.Test;
 
 
-public class PalindroomTest {
+public class PalindromeTest {
 	
 	@Test
 	public void legeStringIsEenPalindroom() {
-		assertTrue(new Palindroom().isPalindroom(""));
+		assertTrue(new Palindrome().isPalindrome(""));
 	}
 	
 	@Test
 	public void eenKarakterStringIsEenPalindroom() {
-		assertTrue(new Palindroom().isPalindroom("a"));
+		assertTrue(new Palindrome().isPalindrome("a"));
 	}
 	
 	@Test
 	public void palindroom() {
-		assertTrue(new Palindroom().isPalindroom("koortsmeetsysteemstrook"));
+		assertTrue(new Palindrome().isPalindrome("koortsmeetsysteemstrook"));
 	}
 	
 	@Test
 	public void geenPalindroom() {
-		assertFalse(new Palindroom().isPalindroom("koekoeksklok"));
+		assertFalse(new Palindrome().isPalindrome("koekoeksklok"));
 	}
 	
 

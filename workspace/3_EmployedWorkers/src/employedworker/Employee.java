@@ -1,7 +1,7 @@
 package employedworker;
 
 /**
- * Een Employee heeft een jaarsalaris, berekend op basis van zijn maandsalaris
+ * An Employee has a year salary, calculated using the month salary.
  */
 public class Employee {
 	

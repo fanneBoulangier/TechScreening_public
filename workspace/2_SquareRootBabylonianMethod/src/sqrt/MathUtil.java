@@ -3,23 +3,23 @@ package sqrt;
 public class MathUtil {
 
 	/**
-	 * Bereken de square root van een gegeven getal via de Babylonian methode: 
-	 * sqrt (S) berekent men als volgt:
-	 * 1. Begin met een arbitrair gekozen positieve start waarde x0
-	 * 2. xn+1 is het gemiddelde van xn en S/xn
-	 * 3. herhaal stap 1 tem 2 tot voldoende nauwkeurigheid is bereikt. (maw totdat 
-	 * de square van xn ongeveer gelijk is aan S)
-	 * Bereken de square root tot op acht cijfers na de komma nauwkeurig.
-	 * 
-	 * wiskundige notatie:
+	 * Calculate the square root of a given number with the Babylonian method:
+	 *  sqrt(S) can be calculated as follows:
+	 * 1. Choose an arbitrary positive initial value x0
+	 * 2. xn+1 is the average of xn and S/xn
+	 * 3. repeat step 1 and 2 until the accuracy is sufficient (i.e. untill xn^2 gets near to S).
+	 *
+	 * Calculate the sqrt up to eight decimal precision.
+	 *
+	 * mathematical notation:
 	 * x0 = sqrt(S)
 	 * xn+1 = 1/2 * (xn + S / xn)
-	 * sqrt(S) = lim (n->oneindig) xn
+	 * sqrt(S) = lim (n->infinit) xn
 	 * 
-	 * @param getal het getal waarvan je de square root wilt berekenen
-	 * @return de square root van getal tot op 8 cijfers nauwkeurig
+	 * @param aNumber a number
+	 * @return the square root of a number up to 8 decimal precision
 	 */
-	public static double sqrt(double getal) {
+	public static double sqrt(double aNumber) {
 		throw new UnsupportedOperationException("implement me");
 	}
 	

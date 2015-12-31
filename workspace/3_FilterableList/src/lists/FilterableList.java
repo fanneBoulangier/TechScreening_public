@@ -3,7 +3,7 @@ package lists;
 import java.util.List;
 
 /**
- * Een filterable lijst is een lijst waarop je kan filteren
+ * A list that can be filtered.
  *
  */
 public interface FilterableList<T> extends List<T> {
