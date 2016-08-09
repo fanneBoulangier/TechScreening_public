@@ -1,53 +1,53 @@
-package decoding;
+package decodering;
 
-import static junit.framework.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
 
-public class LengthDecodingAlgorithmTest {
+public class LengteDecoderingAlgoritmeTest {
 
-	private LengthDecodingAlgorithm lengthDecoding;
+	private LengteDecoderingAlgoritme lengteDecodering;
 
 	@Before
 	public void setup() throws Exception {
-		lengthDecoding = new LengthDecodingAlgorithm();
+		lengteDecodering = new LengteDecoderingAlgoritme();
 	}
 
 	@Test
-	public void emptyString() {
-		assertEquals("", lengthDecoding.decode(""));
+	public void legeString() {
+		assertEquals("", lengteDecodering.decodeer(""));
 	}
 
 	@Test
-	public void noDecodingNeeded() {
-		assertEquals("abc", lengthDecoding.decode("abc"));
+	public void geenDecoderingNodig() {
+		assertEquals("abc", lengteDecodering.decodeer("abc"));
 	}
 
 	@Test
-	public void decodeCompleteString() {
-		assertEquals("aaa", lengthDecoding.decode("3a"));
+	public void decodeerVolledigeString() {
+		assertEquals("aaa", lengteDecodering.decodeer("3a"));
 	}
 
 	@Test
-	public void decodeFirstCharacters() {
-		assertEquals("aaabc", lengthDecoding.decode("3abc"));
+	public void decodeerEersteLetters() {
+		assertEquals("aaabc", lengteDecodering.decodeer("3abc"));
 	}
 
 	@Test
-	public void decodeInTheMiddle() {
-		assertEquals("abbbbc", lengthDecoding.decode("a4bc"));
+	public void decodeerLettersInMidden() {
+		assertEquals("abbbbc", lengteDecodering.decodeer("a4bc"));
 	}
 
 	@Test
-	public void decodeAtTheEnd() {
-		assertEquals("abcc", lengthDecoding.decode("ab2c"));
+	public void decodeerLettersOpEinde() {
+		assertEquals("abcc", lengteDecodering.decodeer("ab2c"));
 	}
 
 	@Test
-	public void multipleDecodingsOfTheSameCharacter() {
-		assertEquals("aaaabaaaaaaaaaaaaaacaaaaa", lengthDecoding.decode("4ab14ac5a"));
+	public void meerdereAaneenschakelingenVanHetzelfdeKarakter() {
+		assertEquals("aaaabaaaaaaaaaaaaaacaaaaa", lengteDecodering.decodeer("4ab14ac5a"));
 	}
 
 }
