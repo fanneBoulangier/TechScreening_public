@@ -1,7 +1,8 @@
 package wordchains;
+package wordchains;
 
 import static java.util.Arrays.asList;
-import static junit.framework.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 import java.util.List;
 
@@ -37,4 +38,5 @@ public class WordChainsTest {
 		return asList("pot", "toc", "pac", "man", "cot", "dog", "cat", "tca", "cto", "cog", "min", "tip", "pit", "sit");
 	}
 }
+
 
