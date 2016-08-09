@@ -1,5 +1,4 @@
 package wordchains;
-package wordchains;
 
 import static java.util.Arrays.asList;
 import static org.junit.Assert.assertEquals;
