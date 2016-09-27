@@ -2,6 +2,3 @@
 
 ## Install
 TODO
-
-## TODO
-See issues.
