@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_FindMaxValueInList\1_FindMaxValueInList\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_FindMaxValueInList\1_FindMaxValueInList\bin\Debug\1_FindMaxValueInList.dll
-D:\Recrutering\dotNet\1_FindMaxValueInList\1_FindMaxValueInList\bin\Debug\1_FindMaxValueInList.pdb
-D:\Recrutering\dotNet\1_FindMaxValueInList\1_FindMaxValueInList\obj\Debug\1_FindMaxValueInList.dll
-D:\Recrutering\dotNet\1_FindMaxValueInList\1_FindMaxValueInList\obj\Debug\1_FindMaxValueInList.pdb

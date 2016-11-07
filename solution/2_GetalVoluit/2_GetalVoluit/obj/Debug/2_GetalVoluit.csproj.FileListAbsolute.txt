@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\2_GetalVoluit\2_GetalVoluit\bin\Debug\2_GetalVoluit.dll
-D:\Recrutering\dotNet\2_GetalVoluit\2_GetalVoluit\bin\Debug\2_GetalVoluit.pdb
-D:\Recrutering\dotNet\2_GetalVoluit\2_GetalVoluit\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\2_GetalVoluit\2_GetalVoluit\obj\Debug\2_GetalVoluit.dll
-D:\Recrutering\dotNet\2_GetalVoluit\2_GetalVoluit\obj\Debug\2_GetalVoluit.pdb

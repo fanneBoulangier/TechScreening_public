@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\3_Permutaties\3_Permutaties\bin\Debug\3_Permutaties.dll
-D:\Recrutering\dotNet\3_Permutaties\3_Permutaties\bin\Debug\3_Permutaties.pdb
-D:\Recrutering\dotNet\3_Permutaties\3_Permutaties\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\3_Permutaties\3_Permutaties\obj\Debug\3_Permutaties.dll
-D:\Recrutering\dotNet\3_Permutaties\3_Permutaties\obj\Debug\3_Permutaties.pdb

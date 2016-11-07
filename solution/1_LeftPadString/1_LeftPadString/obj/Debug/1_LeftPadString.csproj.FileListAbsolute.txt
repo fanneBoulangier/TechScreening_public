@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_LeftPadString\1_LeftPadString\bin\Debug\1_LeftPadString.dll
-D:\Recrutering\dotNet\1_LeftPadString\1_LeftPadString\bin\Debug\1_LeftPadString.pdb
-D:\Recrutering\dotNet\1_LeftPadString\1_LeftPadString\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_LeftPadString\1_LeftPadString\obj\Debug\1_LeftPadString.dll
-D:\Recrutering\dotNet\1_LeftPadString\1_LeftPadString\obj\Debug\1_LeftPadString.pdb

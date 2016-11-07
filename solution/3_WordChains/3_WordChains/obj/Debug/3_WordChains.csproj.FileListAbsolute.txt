@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\3_WordChains\3_WordChains\bin\Debug\3_WordChains.dll
-D:\Recrutering\dotNet\3_WordChains\3_WordChains\bin\Debug\3_WordChains.pdb
-D:\Recrutering\dotNet\3_WordChains\3_WordChains\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\3_WordChains\3_WordChains\obj\Debug\3_WordChains.dll
-D:\Recrutering\dotNet\3_WordChains\3_WordChains\obj\Debug\3_WordChains.pdb

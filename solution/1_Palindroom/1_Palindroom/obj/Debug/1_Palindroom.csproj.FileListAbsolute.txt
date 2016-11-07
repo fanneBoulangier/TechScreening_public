@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_Palindroom\1_Palindroom\bin\Debug\1_Palindroom.dll
-D:\Recrutering\dotNet\1_Palindroom\1_Palindroom\bin\Debug\1_Palindroom.pdb
-D:\Recrutering\dotNet\1_Palindroom\1_Palindroom\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_Palindroom\1_Palindroom\obj\Debug\1_Palindroom.dll
-D:\Recrutering\dotNet\1_Palindroom\1_Palindroom\obj\Debug\1_Palindroom.pdb

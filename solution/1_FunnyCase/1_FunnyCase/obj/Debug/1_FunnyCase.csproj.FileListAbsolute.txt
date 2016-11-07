@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_FunnyCase\1_FunnyCase\bin\Debug\1_FunnyCase.dll
-D:\Recrutering\dotNet\1_FunnyCase\1_FunnyCase\bin\Debug\1_FunnyCase.pdb
-D:\Recrutering\dotNet\1_FunnyCase\1_FunnyCase\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_FunnyCase\1_FunnyCase\obj\Debug\1_FunnyCase.dll
-D:\Recrutering\dotNet\1_FunnyCase\1_FunnyCase\obj\Debug\1_FunnyCase.pdb

@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_Fibonacci\1_Fibonacci\bin\Debug\1_Fibonacci.dll
-D:\Recrutering\dotNet\1_Fibonacci\1_Fibonacci\bin\Debug\1_Fibonacci.pdb
-D:\Recrutering\dotNet\1_Fibonacci\1_Fibonacci\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_Fibonacci\1_Fibonacci\obj\Debug\1_Fibonacci.dll
-D:\Recrutering\dotNet\1_Fibonacci\1_Fibonacci\obj\Debug\1_Fibonacci.pdb

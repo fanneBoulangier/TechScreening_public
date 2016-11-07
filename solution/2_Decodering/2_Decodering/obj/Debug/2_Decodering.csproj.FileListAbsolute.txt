@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\2_Decodering\2_Decodering\bin\Debug\2_Decodering.dll
-D:\Recrutering\dotNet\2_Decodering\2_Decodering\bin\Debug\2_Decodering.pdb
-D:\Recrutering\dotNet\2_Decodering\2_Decodering\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\2_Decodering\2_Decodering\obj\Debug\2_Decodering.dll
-D:\Recrutering\dotNet\2_Decodering\2_Decodering\obj\Debug\2_Decodering.pdb

@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_ZelfdePariteit\1_ZelfdePariteit\bin\Debug\1_ZelfdePariteit.dll
-D:\Recrutering\dotNet\1_ZelfdePariteit\1_ZelfdePariteit\bin\Debug\1_ZelfdePariteit.pdb
-D:\Recrutering\dotNet\1_ZelfdePariteit\1_ZelfdePariteit\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_ZelfdePariteit\1_ZelfdePariteit\obj\Debug\1_ZelfdePariteit.dll
-D:\Recrutering\dotNet\1_ZelfdePariteit\1_ZelfdePariteit\obj\Debug\1_ZelfdePariteit.pdb

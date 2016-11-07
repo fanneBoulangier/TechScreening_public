@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\2_SquareRootBabylonianMethod\2_SquareRootBabylonianMethod\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\2_SquareRootBabylonianMethod\2_SquareRootBabylonianMethod\bin\Debug\2_SquareRootBabylonianMethod.dll
-D:\Recrutering\dotNet\2_SquareRootBabylonianMethod\2_SquareRootBabylonianMethod\bin\Debug\2_SquareRootBabylonianMethod.pdb
-D:\Recrutering\dotNet\2_SquareRootBabylonianMethod\2_SquareRootBabylonianMethod\obj\Debug\2_SquareRootBabylonianMethod.dll
-D:\Recrutering\dotNet\2_SquareRootBabylonianMethod\2_SquareRootBabylonianMethod\obj\Debug\2_SquareRootBabylonianMethod.pdb

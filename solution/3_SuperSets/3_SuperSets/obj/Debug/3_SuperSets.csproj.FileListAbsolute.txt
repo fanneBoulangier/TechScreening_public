@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\3_SuperSets\3_SuperSets\bin\Debug\3_SuperSets.dll
-D:\Recrutering\dotNet\3_SuperSets\3_SuperSets\bin\Debug\3_SuperSets.pdb
-D:\Recrutering\dotNet\3_SuperSets\3_SuperSets\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\3_SuperSets\3_SuperSets\obj\Debug\3_SuperSets.dll
-D:\Recrutering\dotNet\3_SuperSets\3_SuperSets\obj\Debug\3_SuperSets.pdb

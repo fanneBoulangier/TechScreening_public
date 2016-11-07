@@ -1,1 +1,0 @@
-﻿// Het doel van deze oefening is om de code kwaliteit te analyseren en te verbeteren.

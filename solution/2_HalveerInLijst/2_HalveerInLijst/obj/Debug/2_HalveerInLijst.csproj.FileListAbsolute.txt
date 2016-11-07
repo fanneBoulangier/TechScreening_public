@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\2_HalveerInLijst\2_HalveerInLijst\bin\Debug\2_HalveerInLijst.dll
-D:\Recrutering\dotNet\2_HalveerInLijst\2_HalveerInLijst\bin\Debug\2_HalveerInLijst.pdb
-D:\Recrutering\dotNet\2_HalveerInLijst\2_HalveerInLijst\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\2_HalveerInLijst\2_HalveerInLijst\obj\Debug\2_HalveerInLijst.dll
-D:\Recrutering\dotNet\2_HalveerInLijst\2_HalveerInLijst\obj\Debug\2_HalveerInLijst.pdb

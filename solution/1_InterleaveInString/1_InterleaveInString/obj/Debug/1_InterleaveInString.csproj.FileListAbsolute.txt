@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_InterleaveInString\1_InterleaveInString\bin\Debug\1_InterleaveInString.dll
-D:\Recrutering\dotNet\1_InterleaveInString\1_InterleaveInString\bin\Debug\1_InterleaveInString.pdb
-D:\Recrutering\dotNet\1_InterleaveInString\1_InterleaveInString\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_InterleaveInString\1_InterleaveInString\obj\Debug\1_InterleaveInString.dll
-D:\Recrutering\dotNet\1_InterleaveInString\1_InterleaveInString\obj\Debug\1_InterleaveInString.pdb

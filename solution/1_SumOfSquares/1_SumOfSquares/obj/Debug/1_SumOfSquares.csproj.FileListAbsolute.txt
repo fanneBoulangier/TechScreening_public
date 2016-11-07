@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\1_SumOfSquares\1_SumOfSquares\bin\Debug\1_SumOfSquares.dll
-D:\Recrutering\dotNet\1_SumOfSquares\1_SumOfSquares\bin\Debug\1_SumOfSquares.pdb
-D:\Recrutering\dotNet\1_SumOfSquares\1_SumOfSquares\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\1_SumOfSquares\1_SumOfSquares\obj\Debug\1_SumOfSquares.dll
-D:\Recrutering\dotNet\1_SumOfSquares\1_SumOfSquares\obj\Debug\1_SumOfSquares.pdb

@@ -1,5 +1,0 @@
-D:\Recrutering\dotNet\3_Taken\3_Taken\obj\Debug\ResolveAssemblyReference.cache
-D:\Recrutering\dotNet\3_Taken\3_Taken\bin\Debug\3_Taken.dll
-D:\Recrutering\dotNet\3_Taken\3_Taken\bin\Debug\3_Taken.pdb
-D:\Recrutering\dotNet\3_Taken\3_Taken\obj\Debug\3_Taken.dll
-D:\Recrutering\dotNet\3_Taken\3_Taken\obj\Debug\3_Taken.pdb
