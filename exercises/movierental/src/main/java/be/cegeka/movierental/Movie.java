@@ -1,29 +1,31 @@
 package be.cegeka.movierental;
 
+enum MoviePriceCode {
+    CHILDRENS,
+    NEW_RELEASE,
+    REGULAR;
+}
+
 public class Movie {
 
-    public static final int CHILDRENS = 2;
-    public static final int NEW_RELEASE = 1;
-    public static final int REGULAR = 0;
-
     private String _title;
-    private int _priceCode;
+    private MoviePriceCode _priceCode;
 
-    public Movie(String title, int priceCode) {
+    public Movie(String title, MoviePriceCode priceCode) {
         _title = title;
         _priceCode = priceCode;
     }
 
-    public int getPriceCode() {
+    public MoviePriceCode getPriceCode() {
         return _priceCode;
     }
 
-    public void setPriceCode(int arg) {
-        _priceCode = arg;
+    public void setPriceCode(MoviePriceCode priceCode) {
+        _priceCode = priceCode;
     }
+
     public String getTitle() {
         return _title;
     }
-
 
 }
