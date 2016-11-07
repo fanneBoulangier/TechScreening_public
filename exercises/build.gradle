@@ -1,0 +1,20 @@
+group 'be.cegeka'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'eclipse'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    def junitVersion = '4.12',
+        assertJVersion = '3.5.2'
+    testCompile("junit:junit:$junitVersion")
+    testCompile("org.assertj:assertj-core:$assertJVersion")
+}
