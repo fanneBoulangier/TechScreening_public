@@ -7,13 +7,13 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class CustomerTest {
 
     @Test
-    public void testCustomer() {
+    public void customer() {
         Customer c = new Customer("David");
         assertThat(c).isNotNull();
     }
 
     @Test
-    public void testAddRental() {
+    public void addRental() {
         Customer customer2 = new Customer("Sallie");
         Movie movie1 = new Movie("Gone with the Wind", MoviePriceCode.REGULAR);
         Rental rental1 = new Rental(movie1, 3); // 3 day rental
@@ -21,7 +21,7 @@ public class CustomerTest {
     }
 
     @Test
-    public void testGetName() {
+    public void getName() {
         Customer c = new Customer("David");
         assertThat(c.getName()).isEqualTo("David");
     }
