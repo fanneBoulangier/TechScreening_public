@@ -1,14 +1,15 @@
 package be.cegeka.movierental;
 
-import static org.junit.Assert.*;
 import org.junit.Test;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class CustomerTest {
 
     @Test
     public void testCustomer() {
         Customer c = new Customer("David");
-        assertNotNull(c);
+        assertThat(c).isNotNull();
     }
 
     @Test
@@ -22,7 +23,7 @@ public class CustomerTest {
     @Test
     public void testGetName() {
         Customer c = new Customer("David");
-        assertEquals("David", c.getName());
+        assertThat(c.getName()).isEqualTo("David");
     }
 
     @Test
@@ -36,7 +37,7 @@ public class CustomerTest {
                 "Amount owed is 3.5\n" +
                 "You earned 1 frequent renter points";
         String statement = customer2.statement();
-        assertEquals(expected, statement);
+        assertThat(statement).isEqualTo(expected);
     }
 
     @Test
@@ -50,7 +51,7 @@ public class CustomerTest {
                 "Amount owed is 9.0\n" +
                 "You earned 2 frequent renter points";
         String statement = customer2.statement();
-        assertEquals(expected, statement);
+        assertThat(statement).isEqualTo(expected);
     }
 
     @Test
@@ -64,7 +65,7 @@ public class CustomerTest {
                 "Amount owed is 1.5\n" +
                 "You earned 1 frequent renter points";
         String statement = customer2.statement();
-        assertEquals(expected, statement);
+        assertThat(statement).isEqualTo(expected);
     }
 
     @Test
@@ -86,7 +87,7 @@ public class CustomerTest {
                 "Amount owed is 23.0\n" +
                 "You earned 4 frequent renter points";
         String statement = customer1.statement();
-        assertEquals(expected, statement);
+        assertThat(statement).isEqualTo(expected);
     }
 
     //TODO make test for price breaks in code.
