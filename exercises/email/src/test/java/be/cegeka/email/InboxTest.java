@@ -19,7 +19,7 @@ public class InboxTest {
     }
 
     @Test
-    public void whenEmailArrivesThenSendMessageTorReception() throws Exception {
+    public void whenMessageArrivesThenSendMessageToReception() throws Exception {
         Inbox inbox = new Inbox();
 
         inbox.receiveMessage("Ser Pounce", "Hello Cegeka!");
