@@ -1,4 +1,4 @@
-package be.cegeka.email;
+package be.cegeka.inbox;
 
 import org.junit.Before;
 import org.junit.Test;

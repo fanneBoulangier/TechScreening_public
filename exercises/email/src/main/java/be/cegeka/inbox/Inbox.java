@@ -1,6 +1,6 @@
-package be.cegeka.email;
+package be.cegeka.inbox;
 
-import static be.cegeka.email.MessageSender.sendMessage;
+import static be.cegeka.inbox.MessageSender.sendMessage;
 
 public class Inbox {
 

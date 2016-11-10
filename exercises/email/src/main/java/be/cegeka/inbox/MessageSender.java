@@ -1,4 +1,4 @@
-package be.cegeka.email;
+package be.cegeka.inbox;
 
 public class MessageSender {
     private static MessageSender instance = new MessageSender();
