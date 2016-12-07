@@ -11,9 +11,10 @@ We've done some playtesting with (a diverse set of) colleagues to see what we mi
 | Time  | Action |
 | ----  | ------ |
 | 10:00 | Meet recruit |
-| 10:05 | Explain format (maybe show this table) |
-| 10:10 | Candidate starts Message sending exercise |
-| 10:25 | Recruiter walks in and start pairing |
+| 10:05 | Explain format and give self assessment |
+| 10:10 | Candidate starts self assessment |
+| 10:20 | Candidate starts Message sending exercise |
+| 10:35 | Recruiter walks in and start pairing |
 | 11:00 | Explain refactoring exercise and recruiter leaves room |
 | 11:05 | Recruit reads code to figure our how to refactor |
 | 11:10 | Recruiter enters room and asks what recruit would refactor etc. |
