@@ -11,7 +11,7 @@ Messages will arrive on the inbox. We want to forward those messages to `recepti
 ### Story 3: Messages should be split in different categories
 * Messages containing the text _promo_ or _advertisement_ should be forwarded to `spam`, instead of `reception`
 * Messages containing the text _proposal_ should be forwarded to `sales`, instead of `reception`
-* All other messages should still be sent to `reception`
+* The rules from the previous stories still apply (_CV_ to `recruitment` and the rest to `reception`)
 
 ### Story 4: Log: For each message we forwarded, a trace should be logged
 You can choose an implementation yourself.

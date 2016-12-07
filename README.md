@@ -29,6 +29,8 @@ Also tell them that we don't expect them to finish all the stories in 15 minutes
 
 So that they don't make the excuse of _Well I could have written Unit Tests, but I was under time pressure and wanted to implement all stories asap. That's also why I have shitty design._
 
+Also explain that for the first exercise, the MessageSender is something that they _can_ change if they want, but that `acceptMessage` is not a method they should implement. See below
+
 ### Pointer 2
 When you enter in the first exercise, and notice they haven't added any Unit Tests, ask them if they've ever heard of that.
 
@@ -36,6 +38,9 @@ Start writing Unit Tests while pairing, like we would on a real project and chec
 
 ### Pointer 3
 When they haven't finished Story 4 and 5, still try to ask about how they would implement those stories.
+
+### Pointer 4
+Explain that they can use git if they want to (just have a local git init, no remote).
 
 ## Exercise 1 - Design Choices
 ### No ubiquitous language
@@ -49,4 +54,3 @@ There is one in the Unit Tests though.
 We wanted to make it clear that the MessageSender is something you, as a recruit, don't need to worry about exactly what it does.
 
 We also did not want to infer _Dependency Injection_ on our `Inbox` class, so that a recruit can tell us about that if he/she wants to.
-
