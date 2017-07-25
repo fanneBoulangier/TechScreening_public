@@ -178,3 +178,6 @@ fabric.properties
 
 # OSX
 .DS_Store
+
+# NPM
+/node_modules
