@@ -10,7 +10,7 @@ class TestInbox(unittest.TestCase):
         self.message_sender_for_test = MessageSenderForTest()
         message_sender.MessageSender._instance = self.message_sender_for_test
 
-    def test_receive_message__(self):
+    def test_receive_message__when_message_arrives__then_send_to_reception(self):
         inbox.Inbox().receive_message('Alice', 'Want to know a secret?')
 
         self.assertEqual(1, len(self.message_sender_for_test.messages))
