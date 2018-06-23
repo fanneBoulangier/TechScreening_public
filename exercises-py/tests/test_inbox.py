@@ -1,4 +1,6 @@
 import unittest
+from typing import Dict, Tuple
+
 from inbox import inbox, message_sender
 
 
@@ -13,7 +15,7 @@ class TestInbox(unittest.TestCase):
 
         self.assertEqual(1, len(self.message_sender_for_test.messages))
         self.assertIn(
-            ('reception', 'Want to know a secret?'),
+            ('reception', ('Alice', 'Want to know a secret?')),
             self.message_sender_for_test.messages.items()
         )
 
@@ -27,7 +29,7 @@ class MessageSenderForTest(message_sender.MessageSender):
     def __init__(self) -> None:
         self.messages = {}
 
-    def accept_message(self, receiver: str, message: str) -> None:
+    def accept_message(self, receiver: str, message: Tuple[str, str]) -> None:
         self.messages[receiver] = message
 
 
