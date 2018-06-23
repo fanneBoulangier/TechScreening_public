@@ -1,7 +1,8 @@
 import unittest
 from typing import Tuple
 
-from inbox import inbox, message_sender
+from inbox import message_sender
+from inbox.inbox import Inbox
 
 
 class TestInbox(unittest.TestCase):
@@ -11,7 +12,7 @@ class TestInbox(unittest.TestCase):
         message_sender.MessageSender._instance = self.message_sender_for_test
 
     def test_receive_message__when_message_arrives__then_send_to_reception(self):
-        inbox.Inbox().receive_message('Alice', 'Want to know a secret?')
+        Inbox().receive_message('Alice', 'Want to know a secret?')
 
         self.assertEqual(1, len(self.message_sender_for_test.messages))
         self.assertIn(
