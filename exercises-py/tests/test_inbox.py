@@ -1,5 +1,5 @@
 import unittest
-from typing import Dict, Tuple
+from typing import Tuple
 
 from inbox import inbox, message_sender
 
