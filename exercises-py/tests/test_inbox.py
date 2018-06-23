@@ -23,14 +23,14 @@ class TestInbox(unittest.TestCase):
 class MessageSenderForTest(message_sender.MessageSender):
     """Custom message_sender for testing
     """
-    def __new__(cls) -> message_sender.MessageSender:
-        return object.__new__(cls)
-
     def __init__(self) -> None:
         self.messages = {}
 
     def accept_message(self, receiver: str, message: Tuple[str, str]) -> None:
         self.messages[receiver] = message
+
+    def __new__(cls) -> message_sender.MessageSender:
+        return object.__new__(cls)
 
 
 if __name__ == '__main__':
