@@ -47,7 +47,8 @@
 
 #### Feedback vragen over het interview
 Hoe ging het? Hoe was het format? Is er nog iets dat er ontbreekt?  
-Skill matrix  
+
+### Skill matrix
 Weten in welke schaal persoon ingedeeld kan worden  
 Skills per niveau beschreven [in excel op Portal](https://portal.cegeka.com/kn/root/ContinuousLearning/SitePages/Personal%20Development.aspx).
 
@@ -62,6 +63,11 @@ Proberen even een informeel moment in te lasten. Bijvoorbeeld iets samen gaan dr
 - Is het aangenaam om met de kandidaat te werken?
     - Indien niet? Wat is de reden? Dat deel dieper onderzoeken
 - Bij blijvende onzekerheid niet aannemen. Beter niet dan wel (we hebben al redelijk veel juniors)	
+
+#### How to give feedback?
+- Observation (specific behaviour)
+- How it makes you feel (impact of that behaviour)
+- Make a suggestion (What do you want to see differently) 
 
 ### Technical pointers
 #### Pointer 1
