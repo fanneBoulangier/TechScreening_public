@@ -1,14 +1,14 @@
 # Recruitment homepage
-This is the homepage for everything regarding recruitment for Cegeka Applications.
+This is the homepage for everything regarding technical screening for Cegeka Applications.
 
 ## READ THIS BEFORE CLONING!!!
 All the .zip files are committed using [Git LFS](https://git-lfs.github.com/). So if you actually want that content, you first need to download the [Git LFS cli extension](https://git-lfs.github.com/).
 
 ## Overview
 - This Github repo contains exercises for the following programming languages 
-    - [Java](exercises/README.md)
-    - [JavaScript](exercises-js/README.md)
-    - [Python](exercises-py/README.md)
+    - [Java](exercises)
+    - [JavaScript](exercises-js)
+    - [Python](exercises-py)
 - A typical schedule for an interview can be found beneath this overview
 - [Evaluation criteria and pointers](EvaluationCriteriaAndPointers.md) 
 - [Meeting minutes sharing sessions technical recruiters](sharing-sessions)
